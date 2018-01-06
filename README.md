@@ -1,4 +1,6 @@
-# The Official Site of Emily Mendez
+Deprecated site
+
+# Static Blog Site of Emz the Dev
 
 A website to host my thoughts, work, and record of contributions. http://emilypmendez.github.io/
 - Barry Clark's Jekyll Now template - Thanks for your beautiful projects
