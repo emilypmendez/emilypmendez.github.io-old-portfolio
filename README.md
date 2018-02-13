@@ -1,7 +1,6 @@
-# Emily Mendez, the Dev with Big Ideas
-http://emilypmendez.github.io/
-
+# Emily Mendez, the Gay Dev with Big Ideas
 Hosting my thoughts, labors of love, and general records of activity.
+http://emilypmendez.github.io/
 
 2018. Jekyll for Github Pages.
 
@@ -12,4 +11,4 @@ Hosting my thoughts, labors of love, and general records of activity.
 ✓ Markdown blogging  
 ✓ Syntax highlighting  
 ✓ Disqus commenting  
-
+✓ Two Thumbs Up Approval Rating
