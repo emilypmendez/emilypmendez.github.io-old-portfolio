@@ -2,6 +2,7 @@
 Hosting my thoughts, labors of love, and general records of activity.
 http://emilypmendez.github.io/
 
+--
 2018. Jekyll for Github Pages.
 
 ✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
