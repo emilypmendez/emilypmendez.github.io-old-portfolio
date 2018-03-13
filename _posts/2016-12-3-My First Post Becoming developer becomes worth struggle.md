@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My First Post! AKA: Becoming a developer also "becomes" worth the struggle'
+title: Becoming a developer also "becomes" worth the struggle
 published: true
 ---
 
@@ -25,5 +25,3 @@ I thank you for your time and hope to hear from you soon,
 ## **Emily Mendez**
 
 Email: [emilypmendez@gmail.com](mailto:emilypmendez@gmail.com)
-
-Phone: +1 (786) - 300 - 6036
