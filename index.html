@@ -4,7 +4,14 @@ permalink: null
 published: true
 ---
 <div class="posts">
-  {% for post in site.posts %}
+
+  <div>
+    <title>Welcome to the melting pot...</title>
+      <h3>I'm cooking up some really cool projects here
+        in the <a href="">#1 Tech City</a> in the USA!</h3>
+  </div>
+  
+    {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
