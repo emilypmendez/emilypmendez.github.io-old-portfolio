@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Currently working on blockchain projects with [Bold Motive Group](github.com/boldmotive).
+Currently working on blockchain projects with [Bold Motive Group](https://www.github.com/boldmotive).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Visit the [Projects page](/projects) for samples of my skill sets.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emendez@boldmotive.org](mailto:emendez@boldmotive.org)
