@@ -5,43 +5,41 @@ permalink: /projects/
 published: true
 ---
 
-## Projects = Portfolio :floppy_disk:
+### Learn about my tools, strengths, and creations
+Interdisciplinary scholar on industry specialties:  Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
 
-Welcome to my website where you can view my skills and some of my work (source code is provided on GitHub and CodePen). If you have any questions feel free to contact me.
+## Skills & Experience
+     - Cryptography, Cyber Security
+     - Ethereum Blockchain Architecture
+     - FinTech Regulation Compliance
+     - Marketing & Distribution Systems
+     - Mobile web applications
+     - Strategic Planning & Execution
+     - Technical & Business Analysis
+     - Quantitative Development
+     
+## Specialized Developer Tools
+	- Mac OS & iOS
+	- Adobe Photoshop, Sketch, Invision
+	- Git, Cypress, Steemit, StackExchange, StackOverflow, CDN, MDN
 
-----------
-
-## Professional Overview
-
-	
-* Programming Languages: 
-
-    - HTML, CSS / SCSS, Javascript, jQuery
-    - PHP, Lua, Python, Ruby, Java
-
-
-* Experience:    
-     - SCSS / LESS
-     - AngularJS // Node.js (Express)
-     - NoSQL, MongoDB
-     - Wordpress, Jekyll
-     - Cucumber
-     - Corona SDK
-
-
-* Tools (2017):
-	- Mac OS X, Linux (Ubuntu), Windows Vista
-	- Adobe CS6 Photoshop, Illustrator, Sketch, Invision
-	- XCode, Laravel, Git, Dash, Cucumber, Serenity
-	- GoogleDevs, Chromium, StackOverflow, MDN
+## Software Languages & Platforms
     
-----------
+    ## Front End
+    - HTML5 & CSS
+    - React.js, AngularjS (Javascript)
+    
+    ## Back End
+    - GoLang, PHP, SQL
+    
+    # Platforms
+    - Google Cloud, CDN, MDN, StackOverflow, Wordpress, Shopify
 
 
 
-## Shall we have a pleasant chat about anything? :-)
+## Creations
 
-> # :email: [Email: emilypmendez@gmail.com](mailto:emilypmendez@gmail.com)
+
 
 ---------
 
