@@ -39,8 +39,6 @@ Interdisciplinary scholar on industry specialties:  Management, Information Syst
 
 ## Creations
 
-
-
 ---------
 
 
