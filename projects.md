@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2016 - 2017 Projects
+title: Since 2013
 permalink: /projects/
 published: true
 ---
