@@ -1,7 +1,7 @@
 ### Learn about my tools, strengths, and creations
 Interdisciplinary scholar on industry specialties:  Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
 
-![AliceSpringFarms.png]({{site.baseurl}}/AliceSpringFarms (1).png)
+![Alice Spring Farms]({{site.baseurl}}/images/AliceSpringFarms (1).png)
 
 ![Dashboard.PNG]({{site.baseurl}}/Dashboard.PNG)
 
