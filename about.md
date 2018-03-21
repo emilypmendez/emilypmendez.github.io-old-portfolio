@@ -7,8 +7,8 @@ published: true
 
 Currently working on blockchain projects with [Bold Motive Group](https://www.github.com/boldmotive).
 
-### Learn about my tools, strengths, and creations
-**Interdisciplinary scholar on industry specialties:**  Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
+**Interdisciplinary scholar on industry specialties:** 
+Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
 
 Global advocate for minority developer communities and open source innovation programs in the United States. Featured on Women Who Code Representatives, Urban Engine Regional Ambassadors, and NodeSource publications.
 
