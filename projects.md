@@ -55,17 +55,6 @@ Interdisciplinary scholar on industry specialties:  Management, Information Syst
 ---------
 
 
-  ✔ 6. **PriorityApp** - Built with Javascript and PHP
-  [**View on GitHub**](https://github.com/emilypmendez/PriorityApp)
-  
-  
-  Try the app using Invision Software! Click here: [Prototype App](https://projects.invisionapp.com/static-signed/live-embed/127470428/183406726/1/latest/TNwSXy8641hvCnQUIoNiRd9NqTADfZj1LRqlEJaHlESZzlEkzrX9TBs7rRElEuXw41wyA6C2wYPklELtnGlEPf354KwlE/the-fun-life-app-project-HOME.png)
-  
-  
----------
+### Contact me :mailbox: 
 
-
-
-## Hope to hear from you soon! :mailbox: 
-
-# [Click To Send Email to emilypmendez@gmail.com](mailto:emilypmendez@gmail.com)
+Send an email to [emendez@boldmotive.org](mailto:emendez@boldmotive.org)
