@@ -7,6 +7,9 @@ published: true
 
 Currently working on blockchain projects with [Bold Motive Group](https://www.github.com/boldmotive).
 
+### Learn about my tools, strengths, and creations
+Interdisciplinary scholar on industry specialties:  Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
+
 ## Skills & Experience
      - Cryptography, Cyber Security
      - Ethereum Blockchain Architecture
