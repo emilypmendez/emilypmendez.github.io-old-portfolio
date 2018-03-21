@@ -7,6 +7,8 @@ published: true
 
 Currently working on blockchain projects with [Bold Motive Group](https://www.github.com/boldmotive).
 
+![Myer's Briggs Personality - ENTJ-A]({{site.baseurl}}/images/protag-full-profile.png)
+
 **Interdisciplinary scholar on industry specialties:** 
 Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
 
