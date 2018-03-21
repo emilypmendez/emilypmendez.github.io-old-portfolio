@@ -6,9 +6,9 @@ Super fun projects for past clients... Have a look see!
 
 ![Dashboard.PNG]({{site.baseurl}}/images/Dashboard.PNG)
 
-![Pinot's Palette.png]({{site.baseurl}}images/Pinot's Palette.png)
+![Pinot's Palette.png]({{site.baseurl}}/images/Pinot's Palette.png)
 
-![User Profile.PNG]({{site.baseurl}}images/User Profile.PNG)
+![User Profile.PNG]({{site.baseurl}}/images/User Profile.PNG)
 
 ### Contact me :mail_box:
 
