@@ -1,5 +1,5 @@
-### Learn about my tools, strengths, and creations
-Interdisciplinary scholar on industry specialties:  Management, Information Systems, and Economics applied to Artificial Intelligence and Financial Technologies. 
+### Wireframes, Dashboards, User Profiles
+Super fun projects for past clients... Have a look see!
 
 ![Alice Spring Farms]({{site.baseurl}}/images/AliceSpringFarms (1).png)
 
@@ -9,6 +9,6 @@ Interdisciplinary scholar on industry specialties:  Management, Information Syst
 
 ![User Profile.PNG]({{site.baseurl}}/User Profile.PNG)
 
-### Contact me
+### Contact me :mail_box:
 
 Send an email to [emendez@boldmotive.org](mailto:emendez@boldmotive.org)
