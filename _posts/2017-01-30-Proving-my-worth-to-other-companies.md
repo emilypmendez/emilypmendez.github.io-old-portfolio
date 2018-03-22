@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-## How can I prove my skills to the people that need to hire me?
+### How do I prove my skills to the people that need to hire me?
 
-This is the question I asked myself when I knew that I would become a self taught web developer. 
+This is the question I asked myself when I understood the concept of becoming self taught web developer. 
 
 [TopTalent Site Image]({{site.baseurl}}/_posts/Screen Shot 2017-01-30 at 2.56.21 PM.png)
 
