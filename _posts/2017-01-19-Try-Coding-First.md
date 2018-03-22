@@ -1,8 +1,8 @@
 ---
 published: true
 ---
-## Step 1 - Try Codecademy First,
-## Then Mix It Up So That Your Brain Doesn’t Get Bored…
+### Step 1 - Try Codecademy First,
+### Then Mix It Up So That Your Brain Doesn’t Get Bored…
 
 If you’re anything like me, you might feel impatient when trying to get past irrelevant information in order to get to the point. I’m a straightforward type of person. So learning something new usually simple for me because I try to find the clearest, most accurate line of learning in order to make the end result optimal. But that’s not the case with programming…
 
