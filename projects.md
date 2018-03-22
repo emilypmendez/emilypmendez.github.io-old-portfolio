@@ -30,8 +30,6 @@ published: true
     
   ✔ 3. **BalloonTap** - Game made with Lua, Corona SDK
   [**View on GitHub**](https://github.com/emilypmendez/TipCalc)
-
-> ![]({{site.baseurl}}/emilypmendez.github.io/images/sbs-balloon-0.png)
   
 
 ---------
